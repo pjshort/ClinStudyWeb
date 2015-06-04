@@ -1,0 +1,26 @@
+csDrugList              Retrieve drug information from the ClinStudyWeb
+                        database
+csDrugQuery             Retrieve drug information from the ClinStudyWeb
+                        database
+csFindAssays            Query Assay information from the database
+csJSONQuery             Query the ClinStudyWeb database via its JSON
+                        API
+csPatients              Query the ClinStudyWeb database
+csWebAffyBatch          Generate an annotated AffyBatch
+csWebDrugInfo           Annotate a Bioconductor data object with drug
+                        information from the ClinStudyWeb database
+csWebDrugInfo-methods   Annotate a data object with drug information
+                        from the ClinStudyWeb database
+csWebGeneFeatureSet     Generate an annotated GeneFeatureSet
+csWebQuery              Query the ClinStudyWeb database via its REST
+                        API
+csWebRGList             Generate an annotated RGList
+csWebReannotate         Reannotate a data object using the ClinStudyWeb
+                        database
+csWebReannotate-methods
+                        Reannotate a data object using the ClinStudyWeb
+                        database
+getCSWebHandle          Obtain an authenticated CURLHandle for the
+                        ClinStudyWeb database.
+getCredentials          Ask the user for their login credentials
+logoutCSWebHandle       Terminate an authenticated CURLHandle session.
